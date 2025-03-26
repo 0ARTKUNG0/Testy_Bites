@@ -11,7 +11,7 @@ const MenuCategories = ({ fadeInClass }) => {
       <div className="row g-4 justify-content-center">
         <div className="col-md-6">
           <div className="card__article shadow h-100">
-            <img src="../public/main-1.jpg" alt="Japanese Katsu Curry" className="card__img" />
+            <img src="/product_img/main-1.jpg" alt="Japanese Katsu Curry" className="card__img" />
             <div className="card__data">
               <h2 className="card__title">Main Courses</h2>
               <p className="card__description">Delicious Japanese main dishes including Katsu Don and Curry Rice</p>
@@ -25,7 +25,7 @@ const MenuCategories = ({ fadeInClass }) => {
 
         <div className="col-md-6">
           <div className="card__article shadow h-100">
-            <img src="../public/main-2.jpg" alt="Japanese Tempura Platter" className="card__img" />
+            <img src="/product_img/main-2.jpg" alt="Japanese Tempura Platter" className="card__img" />
             <div className="card__data">
               <h2 className="card__title">Sides & Appetizers</h2>
               <p className="card__description">Perfect complements to your meal or enjoy them on their own</p>

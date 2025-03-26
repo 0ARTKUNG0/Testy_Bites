@@ -27,7 +27,7 @@ const SpiceLevelSelector = ({ id, spiceLevel, onSpiceLevelChange }) => {
             onChange={() => onSpiceLevelChange("Mild_Spicy")}
           />
           <label htmlFor={`mild-${id}`}>
-            เผ็ดน้อย <img src="../public/icon/chili-pepper.png" alt="Chili" className="chili-icon" />
+            เผ็ดน้อย <img src="/product_img/icon/chili-pepper.png" alt="Chili" className="chili-icon" />
           </label>
         </div>
         
@@ -42,8 +42,8 @@ const SpiceLevelSelector = ({ id, spiceLevel, onSpiceLevelChange }) => {
           />
           <label htmlFor={`medium-${id}`}>
             เผ็ดปานกลาง 
-            <img src="../public/icon/chili-pepper.png" alt="Chili" className="chili-icon" />
-            <img src="../public/icon/chili-pepper.png" alt="Chili" className="chili-icon" />
+            <img src="/product_img/icon/chili-pepper.png" alt="Chili" className="chili-icon" />
+            <img src="/product_img/icon/chili-pepper.png" alt="Chili" className="chili-icon" />
           </label>
         </div> 
         
@@ -58,9 +58,9 @@ const SpiceLevelSelector = ({ id, spiceLevel, onSpiceLevelChange }) => {
           />
           <label htmlFor={`hot-${id}`}>
             เผ็ดมาก 
-            <img src="../public/icon/chili-pepper.png" alt="Chili" className="chili-icon" />
-            <img src="../public/icon/chili-pepper.png" alt="Chili" className="chili-icon" />
-            <img src="../public/icon/chili-pepper.png" alt="Chili" className="chili-icon" />
+            <img src="/product_img/icon/chili-pepper.png" alt="Chili" className="chili-icon" />
+            <img src="/product_img/icon/chili-pepper.png" alt="Chili" className="chili-icon" />
+            <img src="/product_img/icon/chili-pepper.png" alt="Chili" className="chili-icon" />
           </label>
         </div>
       </div>
