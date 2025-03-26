@@ -133,7 +133,7 @@ export const isSpiceLevelProduct = (productId) => {
             <div class="restaurant-info">123 Food Street, Cuisine City</div>
             <div class="restaurant-info">Tel: (123) 456-7890</div>
             <div class="restaurant-info">www.TastyBites.com</div>
-            <img src="product_img/icon/line.jpg" alt="LINE QR Code" class="qr-code" style="filter: blur(2px);">
+            <img src="./public/icon/line.jpg" alt="LINE QR Code" class="qr-code" style="filter: blur(2px);">
             <div class="connect-line">Connect with us on LINE</div>
           </div>
           

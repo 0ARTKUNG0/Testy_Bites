@@ -22,7 +22,7 @@ const Hero = ({ fadeInClass }) => {
           </div>
         </div>
         <div className="col-lg-6">
-          <img src="./product_img/main-1.jpg" alt="Japanese cuisine" className="img-fluid rounded shadow" style={{ maxHeight: '400px', objectFit: 'cover', width: '100%' }} />
+          <img src="../public/main-1.jpg" alt="Japanese cuisine" className="img-fluid rounded shadow" style={{ maxHeight: '400px', objectFit: 'cover', width: '100%' }} />
         </div>
       </div>
     </div>
